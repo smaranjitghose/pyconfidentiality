@@ -66,7 +66,7 @@ print("Decrypted message: {}".format(decrypt(cipher_obj, private_key)))
 </p>
 
 <a href="https://github.com/smaranjitghose">
-<h4 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<h4 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;
 <a href="https://github.com/anushbhatia"><b>Anush Bhatia</b></h4></a>
 
 
