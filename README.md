@@ -8,7 +8,7 @@
 
 Adding secrecy to your emails with RSA!
 
-<p align="center"><img width=30% src="https://media.giphy.com/media/3oKIPqZPlKW5otXIS4/giphy.gif"></p>
+<p align="center"><img width=50% src="https://media.giphy.com/media/3oKIPqZPlKW5otXIS4/giphy.gif"></p>
 
 <h3 align="center"><b>Installation</b></h3>
 
