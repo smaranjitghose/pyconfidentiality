@@ -28,7 +28,7 @@ def send_message(username,password,reciever,subject,msg,mode=1):
     else:
         #If you are facing timeout-error for SSL and lack time then use the following
 
-        with smtplib.SMTP('smtp.gmail.com', 587) as smtp: :
+        with smtplib.SMTP('smtp.gmail.com', 587) as smtp:
             smtp.ehlo()
             smtp.starttls()  # Encrypt the traffic using Tranport Layer Security
             smtp.ehlo()
