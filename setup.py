@@ -33,22 +33,4 @@ setup(name=PACKAGE_NAME,
       packages=find_packages()
       )
 
-   classifiers = [
-       "Development Status :: 5 - Production/Stable",
-       "Topic :: Software Development :: Build Tools",
-       "License :: OSI Approved :: MIT License",
-       "Environment :: Console",
-       "Operating System :: OS Independent",
-       "Intended Audience :: Science/Research",
-       "Intended Audience :: Developers",
-       "Intended Audience :: Financial and Insurance Industry",
-       "Intended Audience :: Healthcare Industry",
-       "Topic :: Scientific/Engineering",
-       "Framework :: IPython",
-       "Programming Language :: Python :: 3",
-       "Programming Language :: Python :: 3.6",
-       "Programming Language :: Python :: 3.7",
-       "Programming Language :: Python :: 3.8",
-       "Programming Language :: Python :: 3.9",
-   ],
-   
+
