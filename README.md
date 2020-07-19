@@ -57,7 +57,7 @@ send_message(your_email,your_password,reciever_email,subject,cipher_text)
 
 ```python
 from pyconfidentiality import decrypt_message
-print("Decrypted message: {}".format(decrypt(cipher_obj, private_k)))
+print("Decrypted message: {}".format(decrypt(cipher_obj, private_key)))
 ```
 
 <h2 align= "center"><b> Project Maintainers</b></h2>
