@@ -14,9 +14,7 @@ DESCRIPTION = 'Conceal your emails with Python'
 LONG_DESCRIPTION = (HERE / "README.md").read_text()
 LONG_DESC_TYPE = "text/markdown"
 
-INSTALL_REQUIRES = [
-    'numpy'
-]
+INSTALL_REQUIRES = ['numpy', 'smtplib', 'imghdr']
 
 setup(name=PACKAGE_NAME,
       version=VERSION,
