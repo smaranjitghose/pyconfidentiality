@@ -3,8 +3,6 @@
 ![RSA](https://img.shields.io/badge/rsa-encrypted-brightgreen)
 ![Open Source](https://img.shields.io/badge/open-source-red)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/smaranjitghose/pycondidentiality/blob/master/LICENSE)
-![Forks](https://img.shields.io/github/forks/smaranjitghose/pycondidentiality)
-![Stars](https://img.shields.io/github/stars/smaranjitghose/pycondidentiality)
 
 Adding secrecy to your emails with RSA!
 
