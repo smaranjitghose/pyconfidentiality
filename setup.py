@@ -7,7 +7,7 @@ VERSION = '0.0.1'
 PACKAGE_NAME = 'PyConfidentiality'
 AUTHOR = 'Smaranjit Ghose,Anush Bhatia'
 AUTHOR_EMAIL = 'smaranjitghose@protonmail.com,anushbhatia1234@gmail.com'
-URL = 'https://github.com/you/pyconfidentiality'
+URL = 'https://github.com/smaranjitghose/pyconfidentiality'
 KEYWORDS = "rsa email-sender python cryptography smtp"
 
 
